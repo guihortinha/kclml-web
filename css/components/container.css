@@ -1,0 +1,25 @@
+.logo_container {
+	width: 100px;
+	margin: 10px; auto;
+}
+
+
+.container {
+	width: 700px;
+	margin: 10px; auto;
+}
+
+.container p {
+	font-family: Roboto;
+}
+
+.container2 {
+	width: 700px;
+	margin: 10px; auto;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	margin: 20px 0px;
+	display: flex;
+    flex-wrap: wrap;
+}
